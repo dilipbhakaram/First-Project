@@ -6,6 +6,10 @@ telugu
 hindi
 english
 maths
+science
+social
+physics
+chemistry
 
 
 
